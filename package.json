@@ -1,0 +1,28 @@
+{
+  "name": "color_ramps",
+  "version": "1.0.0",
+  "description": "a collection of sequential and diverging color ramps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madams1/color_ramps.git"
+  },
+  "keywords": [
+    "color",
+    "D3",
+    "ramp",
+    "colorbrewer",
+    "matplotlib",
+    "sequential",
+    "diverging"
+  ],
+  "author": "https://github.com/madams1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madams1/color_ramps/issues"
+  },
+  "homepage": "https://github.com/madams1/color_ramps#readme"
+}
