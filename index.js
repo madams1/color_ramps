@@ -1,5 +1,5 @@
 /// color maps
-var color_maps: {
+var color_maps = {
     // colorbrewer
     YlGn: {
         3: ["#f7fcb9","#addd8e","#31a354"],
