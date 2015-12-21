@@ -1,6 +1,6 @@
 {
   "name": "color_ramps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a collection of sequential and diverging color ramps",
   "main": "index.js",
   "scripts": {
