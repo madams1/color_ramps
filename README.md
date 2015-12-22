@@ -2,7 +2,7 @@
 a collection of sequential and diverging color ramps
 
 ## including in your project
-`npm install calendar_heatmap`
+`npm install color_ramps`
 
 ## samples
 ![](img/ramp_samples.png)
